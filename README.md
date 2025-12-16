@@ -32,4 +32,4 @@ This GitHub is a collection of my **coursework, research projects, and personal 
 
 ## 🔗 Connect With Me
 - 📫 **Website:** [www.iamricardo.com](https://www.iamricardo.com)
-- 💼 **LinkedIn:** [www.linkedin.com](https://www.linkedin.com/in/ricardo-medina-enoc/) 
+- 💼 **LinkedIn:** [www.linkedin.com/in/ricardo-medina-enoc/](https://www.linkedin.com/in/ricardo-medina-enoc/) 
