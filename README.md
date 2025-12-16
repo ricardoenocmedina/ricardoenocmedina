@@ -1,27 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I’m Ricardo
 
-I’m a Computer Science graduate student with a background in Mechanical Engineering, currently focused on software engineering, machine learning, and applied security research. I enjoy building things end-to-end — from experimenting with models and algorithms to designing clean, practical software systems.
+I’m a **Computer Science graduate student (MSCS)** at **The University of Texas at El Paso**, with a background in **Mechanical Engineering** from **The University of Texas at Austin**. My interests sit at the intersection of **machine learning, software security, and applied systems**, with a strong focus on **LLMs, ML experimentation, and real-world problem solving**.
 
-My interests include:
-- Software engineering & backend development  
-- Machine learning and data-driven systems  
-- Security research and safe AI tooling  
-- Applied problem-solving through code  
+This GitHub is a collection of my **coursework, research projects, and personal builds**, showcasing both theoretical understanding and hands-on implementation.
 
-I’m especially interested in work that sits at the intersection of **theory and practice** — where careful engineering decisions matter just as much as algorithms.
+---
 
-### Tech & Tools
-- **Languages:** Python, Java, C++, JavaScript, SQL  
-- **Frameworks:** TensorFlow / Keras, scikit-learn, FastAPI, React  
-- **Tools:** Git, Docker, Linux, VS Code  
-- **Interests:** ML systems, LLMs, security, optimization  
+## 🔍 Interests & Focus Areas
+- Machine Learning & Deep Learning  
+- LLMs, Prompting, and AI Security  
+- Software Reverse Engineering & Malware Analysis  
+- Applied Algorithms & Optimization  
+- Full-stack & ML-powered applications  
 
-### Currently
-- Graduate student in Computer Science  
-- Exploring ML, LLM behavior, and software security  
-- Building and refining personal and academic projects  
+---
 
-### Let’s Connect
-- 🌐 Website: https://iamricardo.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link-here  
+## 📌 Featured Work
+Some highlights you’ll find here:
 
+- **LLM Package Hallucinations Research**  
+  Reproducing and extending experiments from a USENIX Security 2025 paper, including mitigation testing, safety prompts, and API wrappers for code-generating LLMs.
+
+- **Machine Learning Coursework**  
+  Implementations of classifiers and models such as KNN, Decision Trees, Logistic Regression, Neural Networks, and Ensembles, with analysis and visualizations.
+
+- **Software Reverse Engineering Labs**  
+  Malware analysis, memory forensics, and binary reverse engineering using industry-standard tools.
+
+- **Personal & Academic Projects**  
+  Exploratory ML projects, algorithmic implementations, and supporting code from both coursework and independent study.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages:** Python, Java, C/C++, JavaScript  
+- **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow/Keras  
+- **LLMs & AI:** Ollama, local LLMs, RAG pipelines  
+- **Dev Tools:** Git, GitHub, VS Code, Linux, Jupyter  
+- **Other:** LaTeX, Overleaf, basic frontend (HTML/CSS)
+
+---
+
+## 🌐 More About Me
+- 🎓 MSCS @ UTEP  
+- 🧠 Research-driven, experiment-focused learner  
+- 💻 Interested in ML, AI security, and software engineering roles  
+
+📫 **Website:** [www.iamricardo.com](https://www.iamricardo.com)
