@@ -7,26 +7,29 @@ This GitHub is a collection of my **coursework, research projects, and personal 
 ---
 
 ## 🔍 Interests & Focus Areas
-- Machine Learning & Deep Learning  
-- LLMs, Prompting, and AI Security  
+- Machine Learning & Deep Learning
+- LLMs, Prompting, and AI Security
 - Algorithms & Optimization
 - Full-stack & ML-powered applications
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, Java, C/C++, JavaScript  
-- **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow/Keras  
-- **LLMs & AI:** HuggingFace, Ollama, local LLMs, RAG pipelines  
-- **Dev Tools:** Git, GitHub, VS Code, Linux, Jupyter  
+- **Languages:** Python, Java, C/C++, JavaScript
+- **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow/Keras
+- **LLMs & AI:** HuggingFace, Ollama, local LLMs, RAG pipelines
+- **Dev Tools:** Git, GitHub, VS Code, Linux, Jupyter
 - **Other:** LaTeX, Overleaf, basic frontend (HTML/CSS)
 
 ---
 
 ## 🌐 More About Me
-- 🎓 MSCS @ UTEP  
-- 🧠 Research-driven, experiment-focused learner  
-- 💻 Interested in ML, AI security, and software engineering roles  
+- 🎓 MSCS @ UTEP
+- 🧠 Research-driven, experiment-focused learner
+- 💻 Interested in ML, AI security, and software engineering roles
 
-📫 **Website:** [www.iamricardo.com](https://www.iamricardo.com)
-- 💼 LinkedIn: [www.linkedin.com](https://www.linkedin.com/in/ricardo-medina-enoc/) 
+---
+
+## 🔗 Connect With Me
+- 📫 **Website:** [www.iamricardo.com](https://www.iamricardo.com)
+- 💼 **LinkedIn:** [www.linkedin.com](https://www.linkedin.com/in/ricardo-medina-enoc/) 
