@@ -15,7 +15,7 @@ This GitHub is a collection of my **coursework, research projects, and personal 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python, Java, C/C++, JavaScript
+- **Languages:** Python, Java, C/C++, JavaScript, Swift
 - **ML / Data:** NumPy, Pandas, scikit-learn, TensorFlow/Keras
 - **LLMs & AI:** HuggingFace, Ollama, local LLMs, RAG pipelines
 - **Dev Tools:** Git, GitHub, VS Code, Linux, Jupyter
